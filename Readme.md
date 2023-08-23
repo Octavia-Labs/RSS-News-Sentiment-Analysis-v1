@@ -19,6 +19,9 @@ This version has been changed to use OpenAI instead of our fine-tuned LLAMA2 bas
 ## Support
 The Software and related documentation are provided “AS IS” and without any warranty of any kind and Seller EXPRESSLY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
 
+## Issues/Improvements
+You are welcome to improve this code and we will accept pull requests. However, forking is preferrable. This code is not maintained.
+
 Octavia Labs 
 
 Last Code Change - June 2023
