@@ -14,7 +14,9 @@ To run this application you need python3 and the following requirements.
 pip3 install feedparser sqlalchemy transformers schedule psycopg2-binary
 
 ## AI API
-This version has been changed to use OpenAI instead of our fine-tuned LLAMA2 based LLM, you will need to put an OpenAI key in your env file under OPENAI_API_KEY to use this. This should provide similar results to our local LLM.
+This version has been changed to use OpenAI instead of our fine-tuned LLM, you will need to put an OpenAI key in your env file under OPENAI_API_KEY to use this. This should provide similar results to our local LLM.
+
+** Please monitor your OpenAI usage, as we do not have a reference point for how much $$ this will cost with OpenAI as we use our own hardware **
 
 ## Support
 The Software and related documentation are provided “AS IS” and without any warranty of any kind and Seller EXPRESSLY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
